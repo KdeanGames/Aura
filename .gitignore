@@ -23,4 +23,4 @@ Saved
 #################################
 # Other Files			#
 #################################
-*.Content/Assets
+/Content/Assets/**
