@@ -25,6 +25,15 @@ Saved
 #################################
 *.docx
 #################################
-# Other Files			        #
+# Unreal Engines Assets			#
 #################################
-/Content/Assets/**
+/Content/Assets/Dungeon/**
+/Content/Assets/Effects/**
+/Content/Assets/Enemies/**
+/Content/Assets/Fonts/**
+/Content/Assets/MagicCircles/**
+/Content/Assets/Materials/**
+/Content/Assets/Pickups/**
+/Content/Assets/Sounds/**
+/Content/Assets/Spells/**
+/Content/Assets/UI/**
