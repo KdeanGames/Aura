@@ -54,7 +54,7 @@ protected:
 };
 
 template<> 
-struct TStructOpsTypeTraits<FAuraGameplayEffectContext> : TStructOpsTypeTraitsBase2 < FAuraGameplayEffectContext>
+struct TStructOpsTypeTraits<FAuraGameplayEffectContext> : TStructOpsTypeTraitsBase2 <FAuraGameplayEffectContext>
 {
 	enum
 	{
